@@ -1,6 +1,6 @@
 #-*-coding: utf-8-*- 
 #!/usr/bin/python
-#This is the code for creating a calculator in python 3.X
+#This is the code for creating a calculator in python 2.X
 # Author: Arun
 
 from Tkinter import *
